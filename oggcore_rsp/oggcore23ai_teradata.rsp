@@ -1,0 +1,5 @@
+oracle.install.responseFileVersion=/oracle/install/rspfmt_ogginstall_response_schema_v23_1_0
+INSTALL_OPTION=Teradata
+SOFTWARE_LOCATION=/u01/app/product/ogg23ai/teradata
+INVENTORY_LOCATION=/u01/app/oraInventory
+UNIX_GROUP_NAME=oinstall
