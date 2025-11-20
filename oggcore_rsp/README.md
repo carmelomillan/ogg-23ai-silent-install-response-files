@@ -49,15 +49,12 @@ You can adapt this structure to match your company standards.
 Official Documentation
 
 Oracle GoldenGate 23ai Installation Guide (silent install & response files):
-[https://docs.oracle.com/en/middleware/goldengate/core/23/coredoc/install-understanding-and-obtaining-oracle-goldengate-distribution.html
-](https://docs.oracle.com/en/middleware/goldengate/core/23/coredoc/install-oracle-goldengate.html)
-Disclaimer
+https://docs.oracle.com/en/middleware/goldengate/core/23/coredoc/install-oracle-goldengate.html
+
+Disclaimer:
 
 These files are provided as examples and should be reviewed and customized for:
 
-filesystem paths
-inventory and user/group settings
-security requirements
-OS-specific prerequisites
+filesystem paths; inventory and user/group settings; security requirements; OS-specific prerequisites
 before being used in production environments.
 
